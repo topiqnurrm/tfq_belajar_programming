@@ -1,0 +1,8 @@
+rencana konten tfq:
+
+- Javascript
+  * Es6
+  * Framework Javascript
+- PHP Frameworks
+- Interiew 
+- Vlogs
