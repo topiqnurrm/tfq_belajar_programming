@@ -3,7 +3,9 @@ rencana konten tfq:
 - Javascript
   * Es6
   * Framework Javascript
-- Struktur Data Dasar
+    ^ angular
+    ^ react
 - PHP Frameworks
+  ^ Laravel
 - Interiew 
 - Vlogs
