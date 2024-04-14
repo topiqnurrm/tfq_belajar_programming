@@ -1,0 +1,7 @@
+belajar dari chanel youtube Web Programming UNPAS : 
+- part 1 = apa itu git & github ?, yaitu Version Controol System (memanajer history dari suatu file ataupun code dengan cara terstruktur), git di local, Github di web
+- part 2 = bekerja dengan github (dengan berkolaborasi dengan pengguna lain ataupun bisa dengan kita sendiri 1 pengguna).
+- part 3 = Branch (cabang) cabang dari suatu main branch, karena kita bisa membuat suatu optional option yang ingin kita coba terlebih dahulu, kemudian bebas apakah nanti mau di merge atau tidak (hapus cabang branch ketika sudah kita merge).
+            * ketika kita mau merge branch, maka perlu untuk admin branch utama menyetujui ataupun memperbaiki code misal ada eror merge.
+- part 4 = fork (yaitu semacam copy repository orang ke repo akun kita), berbeda dengan clone dan download yang tidak akan ada sambungannya di github anatara akun kita dengan akun si pembuat
+            * dengan fork kita dapat mengajukan merge kepada akun yang punya
