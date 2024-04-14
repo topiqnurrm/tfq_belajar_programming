@@ -5,6 +5,7 @@ rencana konten tfq:
   * Framework Javascript
     ^ Vue
     ^ react
+    ^ Angular
 - Struktur Data Dasar
 - PHP Frameworks
   ^ Laravel
